@@ -2,7 +2,7 @@
 <img width="600" alt="Screen Shot 2023-09-07 at 7 04 28 PM" src="https://github.com/spencerdixon2/azure-network-protocols/assets/143224941/1a2a016b-8a4d-4b91-8723-a0c39b14cd5c">
 </p>
 
-Creating Virtual Machines with Azure
+<h1>Creating Virtual Machines with Azure<h1>
 In this tutorial, we observe how to create a virtual machine using Azure<br />
 
 
