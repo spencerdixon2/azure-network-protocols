@@ -4,7 +4,7 @@
 
 <h1>Creating Virtual Machines with Azure<h1>
 
-In this tutorial, we observe how to create a virtual machine using Azure<br />
+<br />In this tutorial, we observe how to create a virtual machine using Azure<br />
 
 
 
