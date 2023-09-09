@@ -31,4 +31,4 @@
 
 
 
-Go to the home page of Microsoft Azure and select "Virtual Machines." Select "Create" at the top left corner and then select "Azure Virtual MAchine." Fill in the required fields and select "Review + Create." Then select "Create" on the next page.
+Go to the home page of Microsoft Azure and select "Virtual Machines." Select "Create" at the top left corner and then select "Azure Virtual Machine." Fill in the required fields and select "Review + Create." Then select "Create" on the next page.
