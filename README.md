@@ -28,3 +28,7 @@ In this tutorial, we observe how to create a virtual machine using Azure<br />
 
 
 <img width="1383" alt="Screen Shot 2023-09-09 at 12 01 52 PM" src="https://github.com/spencerdixon2/azure-network-protocols/assets/143224941/e52cd43e-c3f3-4c84-83b9-cb38a6822583">
+
+
+
+Go to the home page of Microsoft Azure and select "Virtual Machines." Select "Create" at the top left corner and then select "Azure Virtual MAchine." Fill in the required fields and select "Review + Create." Then select "Create" on the next page.
